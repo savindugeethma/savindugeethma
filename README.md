@@ -1,30 +1,28 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=220&section=header&text=SAVINDU%20GEETHMA&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%" />
-  
-  <p align="center">
-    <strong>Full Stack Engineer • AI Automation Architect • Founder & Tech Entrepreneur</strong>
-  </p>
+from typing import List, Dict, Union
 
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/savindugeethma?label=Followers&style=fast&color=22c55e&labelColor=1f2937" alt="Followers">
-    <img src="https://img.shields.io/github/stars/savindugeethma?style=fast&color=eab308&labelColor=1f2937" alt="Stars">
-  </p>
-</div>
+class TechEntrepreneur:
+    """
+    Synthesizing Academic Rigor, Advanced Automation, and Luxury Brand Execution.
+    """
+    def __init__(self) -> None:
+        self.identity: str = "Savindu Geethma"
+        self.academic: str = "BSc (Hons) Software Engineering (L2) — University of Birmingham City (UK)"
+        
+        self.ventures: Dict[str, str] = {
+            "Dropti": "Founder & Owner — Autonomous Startup Ecosystem",
+            "Zeylona": "Brand Handler — AI-Driven Luxury Tea & Botanical Spices",
+            "Dropti Ceylon Plantations": "Director — Premium Agro-Export Business"
+        }
 
----
+    def get_technology_matrix(self) -> Dict[str, List[str]]:
+        return {
+            "Languages":   ["TypeScript", "JavaScript (ES6+)", "Python", "Java", "PHP"],
+            "Frontend":    ["Next.js (App Router)", "React", "Tailwind CSS", "Bootstrap", "HTML5/CSS3"],
+            "Backend_EE":  ["Node.js", "Hibernate ORM", "RESTful APIs"],
+            "Databases":   ["PostgreSQL (Supabase Engine)", "MySQL Cluster"],
+            "Automation":  ["n8n Workflow Orchestration", "Ollama (Device-Native LLMs)", "VPS Architecture Tuning"]
+        }
 
-### 🔮 Executive Overview
-
-A forward-thinking Software Engineering undergraduate blending deep technical capability with brand strategy and enterprise automation. Specializing in architecting continuous integration loops, production-grade AI agent frameworks, and self-sustaining automated digital business ecosystems.
-
-```python
-"""
-Synthesizing Academic Rigor, Advanced Automation, and Luxury Brand Execution.
-"""
-class FounderProfile:
-    identity     = "Savindu Geethma"
-    education    = "BSc (Hons) Software Engineering (2nd Year) — University of Birmingham City (UK)"
-    venture_1    = "Owner & Founder @ Dropti (AI-Driven Startup Ecosystem)"
-    venture_2    = "Director @ Dropti Ceylon Plantations (Premium Agro-Export Business)"
-    specialty    = ["Autonomous AI Agents", "Full Stack Architectures", "VPS Infrastructure Tuning"]
-    philosophy   = "Compounding business scale by offloading maintenance to intelligent machines"
+    @property
+    def core_philosophy(self) -> str:
+        return "Compounding enterprise scale by offloading maintenance to intelligent autonomous machines."
