@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=220&section=header&text=SAVINDU%20GEETHMA&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%" />
   
   <p align="center">
-    <strong>Full Stack Engineer • Open Source Contributor • AI Integration Enthusiast</strong>
+    <strong>Full Stack Engineer • AI Automation Architect • Founder & Tech Entrepreneur</strong>
   </p>
 
   <p align="center">
@@ -13,16 +13,18 @@
 
 ---
 
-### 🔮 Overview
+### 🔮 Executive Overview
 
-A software builder focused on crafting high-performance digital architectures and integrating local intelligent agents. Passionate about engineering quality, type safety, and seamless interfaces.
+A forward-thinking Software Engineering undergraduate blending deep technical capability with brand strategy and enterprise automation. Specializing in architecting continuous integration loops, production-grade AI agent frameworks, and self-sustaining automated digital business ecosystems.
 
 ```python
 """
-Architecting compounded systems from raw concepts to execution.
+Synthesizing Academic Rigor, Advanced Automation, and Luxury Brand Execution.
 """
-class DeveloperProfile:
+class FounderProfile:
     identity     = "Savindu Geethma"
-    craft        = ["Full Stack Engineering", "AI Tooling", "Database Architecture"]
-    philosophy   = "Zero-cost maintenance through rigorous code refinement"
-    state        = ["Continuous Iteration", "Compounding Knowledge"]
+    education    = "BSc (Hons) Software Engineering (2nd Year) — University of Birmingham City (UK)"
+    venture_1    = "Owner & Founder @ Dropti (AI-Driven Startup Ecosystem)"
+    venture_2    = "Director @ Dropti Ceylon Plantations (Premium Agro-Export Business)"
+    specialty    = ["Autonomous AI Agents", "Full Stack Architectures", "VPS Infrastructure Tuning"]
+    philosophy   = "Compounding business scale by offloading maintenance to intelligent machines"
