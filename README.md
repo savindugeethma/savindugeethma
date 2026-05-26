@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=SAVINDU%20GEETHMA&fontSize=44&fontColor=38bdf8&fontAlignY=45&animation=twinkling" width="100%" />
+  <img src="savindu-signature.svg" alt="Savindu Geethma" width="100%" />
   
   <p align="center">
     <code><b>FULL STACK ENGINEER</b></code> • <code><b>AI AUTOMATION ARCHITECT</b></code> • <code><b>FOUNDER & TECH ENTREPRENEUR</b></code>
   </p>
 </div>
-
 ---
 
 ###  Executive Brief
