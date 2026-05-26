@@ -8,7 +8,7 @@
 
 ---
 
-### 💎 Executive Brief
+###  Executive Brief
 
 A high-caliber **17-year-old** Software Engineering undergraduate bridging advanced systems programming with luxury brand execution and autonomous digital infrastructure. **Initiated core technical engineering at age 14**, compounding three years of raw concept development into production-grade systems architecture, multi-agent AI pipeline orchestration, and distributed cloud deployments.
 
@@ -21,9 +21,9 @@ A high-caliber **17-year-old** Software Engineering undergraduate bridging advan
 
 ---
 
-### 🏆 Enterprise Milestones & Live Architectures
+###   Enterprise Milestones & Live Architectures
 
-#### 🌐 Production Projects & Proprietary Systems
+####  Production Projects & Proprietary Systems
 
 <br />
 
@@ -78,7 +78,7 @@ A high-caliber **17-year-old** Software Engineering undergraduate bridging advan
 
 <br />
 
-#### 🤖 Open Source Engineering & Core Automation
+####  Open Source Engineering & Core Automation
 
 <br />
 
@@ -107,4 +107,4 @@ A high-caliber **17-year-old** Software Engineering undergraduate bridging advan
 
 ---
 
-### 🛠 Core Technology Matrix
+###  Core Technology Matrix
