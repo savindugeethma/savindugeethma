@@ -1,56 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=220&section=header&text=SAVINDU%20GEETHMA&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=SAVINDU%20GEETHMA&fontSize=44&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%" />
   
   <p align="center">
     <strong>Full Stack Engineer • AI Automation Architect • Founder & Tech Entrepreneur</strong>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/savindugeethma?label=Followers&style=fast&color=22c55e&labelColor=1f2937" alt="Followers">
-    <img src="https://img.shields.io/github/stars/savindugeethma?style=fast&color=eab308&labelColor=1f2937" alt="Stars">
   </p>
 </div>
 
 ---
 
-### 🔮 Executive Overview
+### Executive Brief
 
-A forward-thinking Software Engineering undergraduate blending deep technical capability with brand strategy and enterprise automation. Specializing in architecting continuous integration loops, production-grade AI agent frameworks, and self-sustaining automated digital business ecosystems.
+A high-caliber 17-year-old Software Engineering undergraduate bridging advanced systems programming with luxury brand execution and autonomous digital infrastructure. Initiated core technical engineering at age 14, compounding three years of raw concept development into production-grade systems architecture, multi-agent AI pipeline orchestration, and distributed cloud deployments.
 
-```python
-from dataclasses import dataclass, field
-from typing import List, Dict
+* **Timeline & Engineering Evolution:** Active exploration and compounding from age 14 to the current age of 17.
+* **Academic Foundation:** BSc (Hons) Software Engineering (Level 2) — University of Birmingham City (UK)
+* **Venture Footprint:**
+  * Founder & Owner @ **Dropti** (AI-Driven Startup Ecosystem)
+  * Brand Orchestrator @ **Zeylona** (Premium AI-Driven Luxury Spices & Tea)
+  * Director @ **Dropti Ceylon Plantations** (Premium Agro-Export Infrastructure)
 
-@dataclass(frozen=True)
-class EnterpriseEcosystem:
-    ventures: Dict[str, str] = field(default_factory=lambda: {
-        "Dropti": "Founder & Owner — Autonomous Startup Ecosystem",
-        "Zeylona": "Brand Orchestrator — AI-Driven Luxury Spices & Tea",
-        "Dropti Ceylon Plantations": "Director — Premium Agro-Export Infrastructure"
-    })
+---
 
-class TechEntrepreneur:
-    """
-    Synthesizing Academic Rigor, Advanced Automation, and Luxury Brand Execution.
-    """
-    def __init__(self) -> None:
-        self.identity: str = "Savindu Geethma"
-        self.academic: str = "BSc (Hons) Software Engineering (L2) — University of Birmingham City (UK)"
-        self.ecosystem: EnterpriseEcosystem = EnterpriseEcosystem()
-        
-    @property
-    def technology_matrix(self) -> Dict[str, List[str]]:
-        return {
-            "Languages":     ["TypeScript", "JavaScript (ES6+)", "Python", "Java", "PHP"],
-            "Frontend_UI":   ["Next.js (App Router)", "React", "Tailwind CSS", "Bootstrap", "HTML5/CSS3"],
-            "Backend_EE":    ["Node.js", "Hibernate ORM", "RESTful Service Layers"],
-            "Cloud_Data":    ["PostgreSQL (Supabase Relational Engines)", "MySQL Cluster"],
-            "AI_Automation": ["n8n Workflow Orchestration", "Ollama (Device-Native LLMs)", "VPS Architecture Tuning"]
-        }
+### Enterprise Milestones & Live Architectures
 
-    @property
-    def core_philosophy(self) -> str:
-        return "Compounding enterprise scale by offloading infrastructure maintenance to intelligent autonomous agents."
+#### Production Projects & Proprietary Systems
 
-# Activating Profile Ecosystem
-savindu = TechEntrepreneur()
+* **EZGO (ezgo.space) — AI Navigation & EV Charging Network**
+  * Engineered a custom **React-driven spatial mapping infrastructure**, recognized as Sri Lanka's first deployment merging AI-assisted route navigation with real-time EV charging station telemetry.
+  * Optimized geospatial client-side data rendering algorithms to handle concurrent hardware status streaming boundaries efficiently.
+
+* **Dropti Enterprise Core — Distributed Backend & Ecosystem Architecture**
+  * Designed and built the centralized backend backbone for the entire Dropti ecosystem, handling secure state isolation, enterprise resource data structures, and transactional integrity.
+  * Formulated the **Dropti Partners System**, a business-to-business logic layer managing programmatic integration, dynamic validation, and asset delivery pipelines for verified external stakeholders.
+
+* **Zeylona Digital Infrastructure (zeylona.store)**
+  * Architected and deployed the official production front-end node and distribution layer for the luxury tea and agro-export operation.
+  * Integrated an extensive automated bookkeeping, order routing, and inventory tracking framework that functions completely autonomously behind the digital retail layer.
+
+#### Open Source Engineering & Core Automation
+
+* **[llm-wiki (v1.2.0 Production Release)](https://github.com/ddsyasas/llm-wiki/releases/tag/v1.2.0)** — *First External PR Merged*
+  * Selected as Headline Contributor for architecting first-class device-native LLM routing via Ollama.
+  * Optimized core dynamic model slot logic and successfully navigated 40+ strict TypeScript type boundaries across a rigorous 4-round engineering synthesis.
+
+* **Autonomous Workflow Orchestration**
+  * Engineered self-sustaining multi-agent boardroom frameworks utilizing **n8n pipeline orchestration** coupled with **Supabase relational engines** to eliminate active manual corporate management.
+  * Provisioned and tuned secure Linux **Virtual Private Servers (VPS)** running device-native **Ollama environments** for autonomous asset generation, semantic metadata syncing via APIs, and dynamic business logic scalability.
+
+---
+
+### Core Technology Matrix
