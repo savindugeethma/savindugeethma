@@ -108,3 +108,44 @@ A high-caliber **17-year-old** Software Engineering undergraduate bridging advan
 ---
 
 ###  Core Technology Matrix
+┌─────────────────────────────────────────────────────────────────────────┐
+│  LANGUAGES        ▸  TypeScript  •  JavaScript (ES6+)  •  Python  •  Java  •  PHP       │
+├─────────────────────────────────────────────────────────────────────────┤
+│  FRONTEND         ▸  Next.js (App Router)  •  React  •  Tailwind CSS  •  Bootstrap     │
+├─────────────────────────────────────────────────────────────────────────┤
+│  BACKEND & ORM    ▸  Node.js  •  Hibernate ORM  •  RESTful API Design           │
+├─────────────────────────────────────────────────────────────────────────┤
+│  DATA & CLOUD     ▸  PostgreSQL (Supabase Engine)  •  MySQL Clusters           │
+├─────────────────────────────────────────────────────────────────────────┤
+│  AI & DEVOPS      ▸  Ollama (Local LLMs)  •  n8n Orchestration  •  VPS Tuning   │
+└─────────────────────────────────────────────────────────────────────────┘
+
+---
+
+### 📊 Engineering Analytics
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=savindugeethma&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindugeethma&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" width="49%" />
+</div>
+
+---
+
+### 🧠 Profile Compilation (System Blueprint)
+
+```python
+from dataclasses import dataclass
+from typing import List
+
+@dataclass(frozen=True)
+class Philosophy:
+    core: str = "Compounding enterprise scale by offloading infrastructure maintenance to intelligent machines."
+    stack: List[str] = ("Strict Type Safety", "Universal Apps", "Distributed Autonomy")
+
+# Active Execution Loop
+while True:
+    build_concept()
+    optimize_efficiency()
+    scale_ventures()
+
