@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="savindu-signature.svg" alt="Savindu Geethma" width="100%" />
+  <img src="gemini-svg.svg" alt="Savindu Geethma" width="100%" />
   
   <p align="center">
     <code><b>FULL STACK ENGINEER</b></code> • <code><b>AI AUTOMATION ARCHITECT</b></code> • <code><b>FOUNDER & TECH ENTREPRENEUR</b></code>
