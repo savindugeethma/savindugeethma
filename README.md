@@ -122,7 +122,7 @@ A high-caliber **17-year-old** Software Engineering undergraduate bridging advan
 
 ---
 
-### 📊 Engineering Analytics
+###  Engineering Analytics
 
 <div align="center">
   <br />
@@ -132,7 +132,7 @@ A high-caliber **17-year-old** Software Engineering undergraduate bridging advan
 
 ---
 
-### 🧠 Profile Compilation (System Blueprint)
+###  Profile Compilation (System Blueprint)
 
 ```python
 from dataclasses import dataclass
